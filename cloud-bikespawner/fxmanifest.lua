@@ -17,3 +17,6 @@ client_scripts {
 	'config.lua',
 	'client/main.lua'
 }
+
+
+-- make sure to change to your core name--
