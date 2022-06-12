@@ -2,10 +2,6 @@ fx_version 'adamant'
 
 game 'gta5'
 
-description 'ESX Vehicle Spawner'
-
-Author 'jongs | Cloud DevelopmentTeam'
-
 version '1.0.0'
 
 server_scripts {
